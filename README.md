@@ -37,7 +37,7 @@
 ## Connect with me
 
 <div align="center">
-<a href="mailto:hi@shubhamverma.me" target="_blank">
+<a href="mailto:darshanvithlani1998@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
 
 </a>
@@ -45,7 +45,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 </a>
-<a href="hhttps://www.linkedin.com/in/darshan-vithlani-768593189" target="_blank">
+<a href="https://www.linkedin.com/in/darshan-vithlani-768593189" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
