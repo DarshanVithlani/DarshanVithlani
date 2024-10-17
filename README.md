@@ -4,7 +4,7 @@
 
 ## A passionate self-taught Data Science enthusiast from India.
 
-- 💬 Ask me about **JavaScript, React**
+- 💬 Ask me about **Python, AI, Data Science**
 - 😄 Pronouns: He / Him
 - ⚡ Hobby: Chess ♚, Music 🎼
 
