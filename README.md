@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=sql&logoColor=white"/>
 <img src="https://img.shields.io/badge/EXCEL-E34F26?style=for-the-badge&logo=xlxs&logoColor=white"/>
 <img src="https://img.shields.io/badge/R Programming-CA4245?style=for-the-badge&logo=R&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spark-CC9245?style=for-the-badge&logo=SPARK&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
